@@ -6,6 +6,11 @@ const PRONOUNS = [
   ["xe/xem", "ze/zem", "one/ones"],
   ["fae/faer", "thon/thons"],
   ["it/its", "zed/zeir", "co/cos"],
+  ["ne/ner", "ne/nem", "ne/nim", "nix/nix", "pic/pim"],
+  ["re/rem", "se/sem", "say/sair", "tey/tem"],
+  ["thy/thym", "vae/vaer", "zay/zir", "aer/aers"],
+  ["be/ber", "e/em", "ke/kem", "mu/mur"],
+  ["ðe/ðim", "þe/þim", "ȝe/ȝim"],
   ["💫/💫's", "🐡/🐡's"],
 ];
 
